@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHxxZXFna2dvamRvbm52aDI5ZzZ3MHNyZTI0MDJlN2F4YTk0djUzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  # Bonjour, je suis [Votre Nom] 👋
+  # Bonjour, je suis Abbas Adam ABBAS 👋
   ## Développeur & Data Enthusiast
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=VOTRE_LIEN_LINKEDIN)](VOTRE_LIEN_LINKEDIN)
@@ -13,8 +13,8 @@
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par le développement de solutions innovantes et l'analyse de données. Toujours à la recherche de nouveaux défis, j'aime explorer les frontières entre le développement logiciel et la data science.
 
-- 🔭 Je travaille actuellement sur [nom du projet]
-- 🌱 J'apprends actuellement [technologie/compétence]
+- 🔭 Je travaille actuellement sur un systeme de tracking pour tablogistique 
+- 🌱 J'apprends actuellement Symfony
 - 👯 Je cherche à collaborer sur des projets de data science et d'IA
 - 💬 Posez-moi des questions sur Python, Data Analysis, Machine Learning
 - ⚡ Fun fact: [fait intéressant vous concernant]
@@ -108,7 +108,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement de so
 
 ## ⚡ Citation favorite
 
-> "Votre citation préférée ici"
+> savoir toujours se relever quand on tombe 
 
 <p align="center"> 
   Visiteurs<br>
