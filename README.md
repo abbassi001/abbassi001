@@ -1,57 +1,37 @@
-# Hi there, I'm [Your Name] 👋
+<!-- Rainbow Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Playground!;Full-Stack+Developer+%7C+Data+Enthusiast+%7C+Tech+Creator;Turning+Coffee+into+Code+Since+2020" alt="Typing SVG" />
+  </a>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=Full-Stack+Developer;Data+Science+Enthusiast;Open-Source+Contributor;Tech+Writer)](https://git.io/typing-svg)
+<!-- Animated Divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🔥 Hot Topics
-- 🔭 I’m currently working on [Project Name] - [Short Description]
-- 🌱 I’m currently learning **LLM Ops and Generative AI**
-- 👯 I’m looking to collaborate on **Open Source Data Science Projects**
-- 💬 Ask me about **Python, SQL, or Data Visualization**
-- ⚡ Fun fact: I once trained a model to detect [interesting thing]
+<!-- Profile Intro -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="Profile views"/>
+  <a href="https://wakatime.com/@yourusername">
+    <img src="https://wakatime.com/badge/user/yourusername.svg?style=flat" alt="Wakatime Stats"/>
+  </a>
+</p>
 
-## 🛠️ Tech Stack
+<!-- Banner Section -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.gif" width="800px">
+</div>
 
-### Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🌟 **About Me**
 
-### Data Science & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-## 🚀 Recent Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=dark)](https://github.com/yourusername/your-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-repo&theme=dark)](https://github.com/yourusername/another-repo)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [5 Data Visualization Tricks You Didn't Know](https://yourblog.com/post1)
-- [Building a Real-time Analytics Dashboard](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-
-## 🎯 Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
-
-## 💡 Pro Tip
 ```python
-def stay_awesome():
-    while True:
-        code()
-        learn()
-        repeat()
+class Developer:
+    def __init__(self):
+        self.name = "Your Name"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.tools = ["React", "PyTorch", "Docker"]
+        self.passions = ["Generative AI", "Data Visualization", "Open Source"]
+        
+    def motto(self):
+        return "Build ➡️ Learn ➡️ Repeat 🔁"
+        
+you = Developer()
